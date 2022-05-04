@@ -19,6 +19,8 @@ int main()
   left_rotate_bit.data = 16;
   left_rotate_bit.bit =2;
   cout<< left_rotate_bit.left_rotate(left_rotate_bit.data,left_rotate_bit.bit);
+  
+  
   return 0;
 
 
